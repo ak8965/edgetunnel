@@ -24,7 +24,7 @@ let go2Socks5s = [
 ];
 let addresses = [];
 let addressesapi = [];
-let addressesnotls = ["https://raw.githubusercontent.com/ak8965/yxip/refs/heads/main/ip.txt"];
+let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
 let DLS = 8;
